@@ -1,0 +1,9 @@
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\JEWJA964\Documents\Visual Studio 2017\Projects\ZuhlkeCodingChallenge\DataModel\obj\Debug\netcoreapp2.2\Data.pdb
